@@ -1,9 +1,38 @@
 html {
     background: url(https://4.bp.blogspot.com/-99heKgMbSqM/U67zz1m8hlI/AAAAAAABAVA/TsrztESEFFU/s0/Usual+things+on+a+desk-Ultra+HD.jpg);
-    background-repeat: no-repeat;
-    background-size: 2400px 1166px;
-    background-position: center;
+    background-repeat: repeat-y;
+    background-size: contain;
+    background-position: top;
     background-color: antiquewhite;
+}
+
+#boostlogo {
+    margin-top: 2%;
+}
+
+#surveytable {
+    float: left;
+    margin-left: 3%;
+}
+
+#surveytable2 {
+    float: right;
+    margin-right: 3%;
+}
+
+#hdiv {
+    clear:both;
+    text-align: center;
+    font-family: Calibri Light;
+    color: white;
+}
+
+#mvpdiv {
+    clear: both;
+}
+
+#designdiv {
+    clear: both;
 }
 
 #heading {
@@ -11,7 +40,6 @@ html {
     font-family: Calibri Light;
     text-align: center;
     font-size: 20px;
-    margin-top: 10%;
 }
 
 table {
