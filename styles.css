@@ -1,8 +1,8 @@
 html {
     background: url(https://4.bp.blogspot.com/-99heKgMbSqM/U67zz1m8hlI/AAAAAAABAVA/TsrztESEFFU/s0/Usual+things+on+a+desk-Ultra+HD.jpg);
     background-repeat: no-repeat;
-    background-size: 2400px 1166px;
-    background-position: center;
+    background-size: cover;
+    background-position: top;
     background-color: antiquewhite;
 }
 
@@ -14,7 +14,7 @@ html {
 #boostlogo {
     height:118.5px;
     width:330px;
-    margin-top: 17%;
+    margin-top: 15%;
 }
 
 #button {
@@ -26,18 +26,15 @@ html {
     border-color: red;
 }
 
+#apply {
+    padding-bottom: 6.25%;
+    
+}
+
 .smlink {
     width: 40px;
     height: 40px;
     padding-left: 1.3rem;
-}
-
-#apply {
-    position: absolute;
-    bottom:0;
-    right:0;
-    left:0;
-    padding-bottom: 6.25%;
 }
 
 #info {
